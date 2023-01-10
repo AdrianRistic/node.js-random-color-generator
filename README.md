@@ -22,7 +22,7 @@ $ node index.js
 Or, choose a hue and luminosity:
 
 ```bash
-$ node index.js light green
+$ node index.js green light
 ##############################
 ##############################
 ##############################
